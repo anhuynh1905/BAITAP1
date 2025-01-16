@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BAITAP1</string>
+    <string name="bt4">Bài tập 4</string>
+    <string name="bt5">Bài tập 5</string>
+    <string name="home">BÀI TẬP 2, 3</string>
+    <string name="arraylist">Hãy nhập các phần tử trong mảng</string>
+</resources>
